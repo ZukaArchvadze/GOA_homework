@@ -1,10 +1,26 @@
 # In HTML attributes
 
-# <!--attributes-->
-# <b> - Bold 
-# <i> - Italic
-# <u> - underlined
-# <del> - delete/discount meaning
-# <sup> - superscript
-# <sub> - subscript
+<!--attributes-->
+<!--bold-->
+# <b>
+<!--anchor-->
+# <a>
+<!--italic-->
+# <i> 
+<!--underlined-->
+# <u> 
+<!-- delete -->
+# <del> - discount meaning
+<!-- superscript -->
+# <sup>
+<!-- subscript -->
+# <sub> 
+<!-- ordered list -->
+# <ol> 
+<!-- anchor tag for link -->
+# <a href="" 
+<!-- list item -->
+# <li> 
+<!-- unordered list-->
+# <ul>
 
